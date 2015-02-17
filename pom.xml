@@ -62,6 +62,6 @@
 			<url>https://maven.ihtsdotools.org/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<description>IHTSDO Common Web Files - images, css, javascript</description>
 </project>
